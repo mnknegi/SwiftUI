@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  SwiftUI
+//  GettingStartedSwiftUI
 //
 //  Created by Mayank Negi on 23/07/22.
 //
